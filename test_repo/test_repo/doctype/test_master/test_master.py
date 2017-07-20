@@ -7,4 +7,6 @@ import frappe
 from frappe.model.document import Document
 
 class TestMaster(Document):
-	pass
+	def validate(self):
+		if not self.test_name:
+			frappe.throw("Test Name is mandatory")
