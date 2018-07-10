@@ -12,7 +12,7 @@ app_email = "saurabh@frappe.io"
 app_license = "MIT"
 
 
-beta_version = '11.0.0'
+beta_version = '6.0.0'
 
 # Includes in <head>
 # ------------------
