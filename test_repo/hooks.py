@@ -11,6 +11,9 @@ app_color = "grey"
 app_email = "saurabh@frappe.io"
 app_license = "MIT"
 
+
+beta_version = '11.0.0'
+
 # Includes in <head>
 # ------------------
 
